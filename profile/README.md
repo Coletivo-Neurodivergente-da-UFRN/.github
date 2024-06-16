@@ -8,9 +8,9 @@ O Coletivo Neurodivergente da UFRN é uma organização independente que visa pr
 
 ## Projetos
 
-Nossa organização no GitHub é dedicada a desenvolver e compartilhar projetos relacionados à neurodiversidade, incluindo:
+_Nossa organização no GitHub_ é dedicada a desenvolver e compartilhar projetos relacionados à neurodiversidade, incluindo:
 
-- Eventos de acessibilidade e inclusão
+- Projetos de acessibilidade e inclusão
 - Recursos educacionais e informativos
 - Aplicações práticas de tecnologia para a comunidade neurodivergente
 
