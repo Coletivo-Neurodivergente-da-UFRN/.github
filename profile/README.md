@@ -10,13 +10,13 @@ O Coletivo Neurodivergente da UFRN é uma organização independente que visa pr
 
 Nossa organização no GitHub é dedicada a desenvolver e compartilhar projetos relacionados à neurodiversidade, incluindo:
 
-- Ferramentas de acessibilidade e inclusão
+- Eventos de acessibilidade e inclusão
 - Recursos educacionais e informativos
 - Aplicações práticas de tecnologia para a comunidade neurodivergente
 
 ## Contribuições
 
-Encorajamos e valorizamos as contribuições de todos, independentemente de sua formação ou experiência. Se você tem interesse em participar e contribuir para nossos projetos, fique à vontade para explorar os repositórios disponíveis e enviar suas sugestões, correções ou novas ideias através de pull requests.
+Encorajamos e valorizamos as contribuições de todos, independentemente de sua formação ou experiência. Se você tem interesse em participar e contribuir para nossos projetos, fique à vontade para explorar os repositórios disponíveis e enviar suas sugestões, correções ou novas ideias através de [pull requests](https://www.freecodecamp.org/portuguese/news/como-fazer-o-seu-primeiro-pull-request-no-github/).
 
 ## Contato
 
@@ -24,4 +24,8 @@ Para mais informações sobre o Coletivo Neurodivergente da UFRN, entre em conta
 
 Siga-nos também no [Instagram](https://www.instagram.com/coletivoneurodivergenteufrn/) para ficar por dentro das nossas atividades e iniciativas.
 
-Junte-se a nós e vamos trabalhar juntos para promover a inclusão e o respeito à diversidade neurodivergente!
+Você também pode se juntar a nós no Grupo Whatsapp do CDNUFRN. Para entrar é preciso enviar sua solicitação através deste formulário https://forms.gle/qMix91vvfacqCP5c8
+
+### Nossos Termos de Prividade
+
+[Termos de privacidade](https://github.com/Coletivo-Neurodivergente-da-UFRN/.github/blob/main/uso_dados_coletivo_neurodivergente.md)
